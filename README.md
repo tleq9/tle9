@@ -126,5 +126,4 @@ The Toyota App can integrate with various applications. Below is a list of suppo
 2. Learn more about the benefits of connected vehicles at [Toyota Connected](https://www.toyota.com/connected).
 
   ---
-
-  !{car}{https://pin.it/51lqZ4LEx}
+  
